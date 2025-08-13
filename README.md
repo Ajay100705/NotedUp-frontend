@@ -1,6 +1,6 @@
-# React + TypeScript + Tailwind (Vite) Starter
+# NotedUp - Frontend
 
-A minimal, battery-included starter with example components.
+A modern React frontend for **NotedUp**, a university-level platform for uploading, sharing, and accessing notes and book PDFs. Users can browse notes by domain, branch, year, and subject.
 
 ## Quick Start
 
